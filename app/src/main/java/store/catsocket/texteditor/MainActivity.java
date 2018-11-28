@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
+    // Saves the input text as a file
     public void saveTextFile(String filename, String edittext) {
 
         String fileNameTxt = filename + ".txt";
